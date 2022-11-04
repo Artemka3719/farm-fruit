@@ -1,3 +1,6 @@
+game:GetService("StarterGui"):SetCore("SendNotification", {Title = "Subscribe ", Text = "Script is made by 5waylie"})
+
+
 if not game:IsLoaded() then
     game.Loaded:Wait()
 end
